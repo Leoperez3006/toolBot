@@ -2,7 +2,6 @@
 ##### _By Leonardo Perez_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 WhatsApp toolBot es un proyecto de codigo abierto creado para facilitar busquedas de internet
 
